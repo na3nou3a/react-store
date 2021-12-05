@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-store/static/css/main.1aac2af3.chunk.css",
-    "main.js": "/react-store/static/js/main.14c33096.chunk.js",
-    "main.js.map": "/react-store/static/js/main.14c33096.chunk.js.map",
+    "main.js": "/react-store/static/js/main.1009777f.chunk.js",
+    "main.js.map": "/react-store/static/js/main.1009777f.chunk.js.map",
     "runtime-main.js": "/react-store/static/js/runtime-main.8e6ebebe.js",
     "runtime-main.js.map": "/react-store/static/js/runtime-main.8e6ebebe.js.map",
     "static/css/2.0a9ec390.chunk.css": "/react-store/static/css/2.0a9ec390.chunk.css",
@@ -13,13 +13,21 @@
     "static/css/main.1aac2af3.chunk.css.map": "/react-store/static/css/main.1aac2af3.chunk.css.map",
     "static/js/2.8e5b7cee.chunk.js.LICENSE.txt": "/react-store/static/js/2.8e5b7cee.chunk.js.LICENSE.txt",
     "static/media/index.css": "/react-store/static/media/background.dae43a75.jpg",
-    "static/media/logo.393df3f4.svg": "/react-store/static/media/logo.393df3f4.svg"
+    "static/media/logo.393df3f4.svg": "/react-store/static/media/logo.393df3f4.svg",
+    "static/media/product-1.dc95857d.png": "/react-store/static/media/product-1.dc95857d.png",
+    "static/media/product-2.fb642d4a.png": "/react-store/static/media/product-2.fb642d4a.png",
+    "static/media/product-3.be78b996.png": "/react-store/static/media/product-3.be78b996.png",
+    "static/media/product-4.41644bf5.png": "/react-store/static/media/product-4.41644bf5.png",
+    "static/media/product-5.d20c3f0f.png": "/react-store/static/media/product-5.d20c3f0f.png",
+    "static/media/product-6.0c81efa9.png": "/react-store/static/media/product-6.0c81efa9.png",
+    "static/media/product-7.2dfe8ff5.png": "/react-store/static/media/product-7.2dfe8ff5.png",
+    "static/media/product-8.ab80bb7c.png": "/react-store/static/media/product-8.ab80bb7c.png"
   },
   "entrypoints": [
     "static/js/runtime-main.8e6ebebe.js",
     "static/css/2.0a9ec390.chunk.css",
     "static/js/2.8e5b7cee.chunk.js",
     "static/css/main.1aac2af3.chunk.css",
-    "static/js/main.14c33096.chunk.js"
+    "static/js/main.1009777f.chunk.js"
   ]
 }
