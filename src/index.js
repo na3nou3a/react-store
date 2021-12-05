@@ -10,7 +10,6 @@ import App from './App';
 import About from './About';
 import Cart from './Cart';
 import Details from './Details';
-import Default from './Default';
 import Home from './Home';
 import Modal from './components/Modal';
 
@@ -24,7 +23,7 @@ ReactDOM.render(
         <Route path='/about' element={<About />} />
         <Route path='/cart' element={<Cart />} />
         <Route path='/details' element={<Details />} />
-        <Route path='/*' element={<Default />} />
+        <Route path='*' element={<Home />} />
       </Routes>
       <Modal />
       <Footer />
