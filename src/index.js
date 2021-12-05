@@ -7,7 +7,6 @@ import './index.css';
 import Navbar from './components/Navbar';
 import Footer from './components/Footer';
 import App from './App';
-import About from './About';
 import Cart from './Cart';
 import Details from './Details';
 import Home from './Home';
@@ -20,7 +19,6 @@ ReactDOM.render(
       <Routes>
         <Route path='/' element={<Home />} />
         <Route path='/products' element={<App />} />
-        <Route path='/about' element={<About />} />
         <Route path='/cart' element={<Cart />} />
         <Route path='/details' element={<Details />} />
         <Route path='*' element={<Home />} />
